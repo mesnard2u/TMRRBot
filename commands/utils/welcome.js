@@ -23,7 +23,7 @@ const welcomeEmbed = new MessageEmbed()
        \n 4️⃣ Ton pseudo doit comporter ton prénom\
        \n 5️⃣ Si tu assistes aux events, ton image sera utilisé sur les supports de communication de DWAM\
        \n\
-        \n⚠️ Pas de sujets religieux ou politiques, spams, insultes, arnaques, ou trucs douteux (corne de rhinocéros ou iPhone à 13 à 1€ sur Wish)\
+        \n⚠️ Pas de sujets religieux ou politiques, spams, insultes, arnaques, ou trucs douteux (corne de rhinocéros ou iPhone 13 à 1€ sur Wish)\
         \n🚫 Le non-respect de ces règles entraînera ton expulsion ou ton bannissement du serveur (selon la gravité ou le caractère récidiviste 🚔).\
         \n\
         \nSi tu veux en savoir plus sur l’initiative Drink With A Marketer\
@@ -52,9 +52,9 @@ const welcomeEmbed = new MessageEmbed()
         \n\
         Pour avoir accès au serveur, il te suffit de te **connecter sur le site DWAM** via le lien ci-dessous, puis accepter le règlement en cliquant sur le gros bouton vert 😉\
         \n\
-        \n ----------------------------------------------------------\
-        \n|   👉 **https://drinkwithamarketer.com/shop/** 👈   | \
-        \n ----------------------------------------------------------\ ")
+        \n ------------------------------------------------------------\
+        \n|   👉 **https://drinkwithamarketer.com/discord-dwam/** 👈   | \
+        \n ------------------------------------------------------------\ ")
         
 
 module.exports = {
