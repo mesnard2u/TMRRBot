@@ -52,9 +52,9 @@ const welcomeEmbed = new MessageEmbed()
         \n\
         Pour avoir accès au serveur, il te suffit de te **connecter sur le site DWAM** via le lien ci-dessous, puis accepter le règlement en cliquant sur le gros bouton vert 😉\
         \n\
-        \n ------------------------------------------------------------\
-        \n|   👉 **https://drinkwithamarketer.com/discord-dwam/** 👈   | \
-        \n ------------------------------------------------------------\ ")
+        \n -----------------------------------------------------------\
+        \n👉 **https://drinkwithamarketer.com/discord-dwam/** 👈 \
+        \n -----------------------------------------------------------\ ")
         
 
 module.exports = {
